@@ -10,6 +10,7 @@ This was the first app I built by myself without following any tutorial. I built
 ## Screenshots
 ![firstScreenShot](https://github.com/DavidRFerreira/PocketNews_iOSApp/blob/master/Screenshots/screenshot1.png)
 ![secondScreenShot](https://github.com/DavidRFerreira/PocketNews_iOSApp/blob/master/Screenshots/screenshot2.png)
+![thirdScreenShot](https://github.com/DavidRFerreira/PocketNews_iOSApp/blob/master/Screenshots/screenshot3.png)
 
 ## Technologies and Concepts Used
 To create this app I used: 
