@@ -8,32 +8,32 @@
 
 /* Begin PBXBuildFile section */
 		4A09201C240816B0001C9CFB /* NewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A09201B240816B0001C9CFB /* NewsViewController.swift */; };
+		4A67C54A2433D063005BF207 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A67C5492433D063005BF207 /* Assets.xcassets */; };
 		4AAFA69723EDEFEB009861B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AAFA69623EDEFEB009861B6 /* AppDelegate.swift */; };
 		4AAFA69923EDEFEB009861B6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AAFA69823EDEFEB009861B6 /* ViewController.swift */; };
 		4AAFA69C23EDEFEB009861B6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AAFA69A23EDEFEB009861B6 /* Main.storyboard */; };
-		4AAFA69E23EDEFF3009861B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AAFA69D23EDEFF3009861B6 /* Assets.xcassets */; };
 		4AAFA6A123EDEFF3009861B6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AAFA69F23EDEFF3009861B6 /* LaunchScreen.storyboard */; };
 		4AB736BD23EEE5760076B7D5 /* News.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB736BC23EEE5760076B7D5 /* News.swift */; };
 		4AB736C023EEE74C0076B7D5 /* NewsBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB736BF23EEE74C0076B7D5 /* NewsBank.swift */; };
 		4AECC002240AA1D0003B0011 /* NewsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AECC001240AA1D0003B0011 /* NewsCell.swift */; };
-		B596715BF3EA008C15551E81 /* Pods_Pocket_News.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D74D42676F707971D9B936C /* Pods_Pocket_News.framework */; };
+		92F39FC1A753146836F3DBB7 /* Pods_Pocket_News.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFDB446FF7D08D76498F69EF /* Pods_Pocket_News.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		101BEBA381461D222A901E31 /* Pods-Pocket_News.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pocket_News.debug.xcconfig"; path = "Target Support Files/Pods-Pocket_News/Pods-Pocket_News.debug.xcconfig"; sourceTree = "<group>"; };
-		2D74D42676F707971D9B936C /* Pods_Pocket_News.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Pocket_News.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A09201B240816B0001C9CFB /* NewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsViewController.swift; sourceTree = "<group>"; };
+		4A67C5492433D063005BF207 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4AAFA69323EDEFEB009861B6 /* Pocket_News.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pocket_News.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AAFA69623EDEFEB009861B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4AAFA69823EDEFEB009861B6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		4AAFA69B23EDEFEB009861B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4AAFA69D23EDEFF3009861B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4AAFA6A023EDEFF3009861B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4AAFA6A223EDEFF3009861B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4AB736BC23EEE5760076B7D5 /* News.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = News.swift; sourceTree = "<group>"; };
 		4AB736BF23EEE74C0076B7D5 /* NewsBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsBank.swift; sourceTree = "<group>"; };
 		4AECC001240AA1D0003B0011 /* NewsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsCell.swift; sourceTree = "<group>"; };
-		808394C17DB9E09A0161CA08 /* Pods-Pocket_News.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pocket_News.release.xcconfig"; path = "Target Support Files/Pods-Pocket_News/Pods-Pocket_News.release.xcconfig"; sourceTree = "<group>"; };
+		50619B272E093CD94DB4178E /* Pods-Pocket_News.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pocket_News.debug.xcconfig"; path = "Target Support Files/Pods-Pocket_News/Pods-Pocket_News.debug.xcconfig"; sourceTree = "<group>"; };
+		CFDB446FF7D08D76498F69EF /* Pods_Pocket_News.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Pocket_News.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D10C48CBE1073144B4428967 /* Pods-Pocket_News.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pocket_News.release.xcconfig"; path = "Target Support Files/Pods-Pocket_News/Pods-Pocket_News.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,26 +41,18 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B596715BF3EA008C15551E81 /* Pods_Pocket_News.framework in Frameworks */,
+				92F39FC1A753146836F3DBB7 /* Pods_Pocket_News.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		21E87D6B9A06A3D9F6774E79 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				2D74D42676F707971D9B936C /* Pods_Pocket_News.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
 		309D72C6663EC183DFC890D3 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				101BEBA381461D222A901E31 /* Pods-Pocket_News.debug.xcconfig */,
-				808394C17DB9E09A0161CA08 /* Pods-Pocket_News.release.xcconfig */,
+				50619B272E093CD94DB4178E /* Pods-Pocket_News.debug.xcconfig */,
+				D10C48CBE1073144B4428967 /* Pods-Pocket_News.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -71,7 +63,7 @@
 				4AAFA69523EDEFEB009861B6 /* Pocket_News */,
 				4AAFA69423EDEFEB009861B6 /* Products */,
 				309D72C6663EC183DFC890D3 /* Pods */,
-				21E87D6B9A06A3D9F6774E79 /* Frameworks */,
+				7D95F0755693CA02E06BACA4 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -110,7 +102,6 @@
 			isa = PBXGroup;
 			children = (
 				4AAFA69A23EDEFEB009861B6 /* Main.storyboard */,
-				4AAFA69D23EDEFF3009861B6 /* Assets.xcassets */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -118,6 +109,7 @@
 		4AB736BB23EEE1AF0076B7D5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4A67C5492433D063005BF207 /* Assets.xcassets */,
 				4AAFA69F23EDEFF3009861B6 /* LaunchScreen.storyboard */,
 			);
 			path = "Supporting Files";
@@ -132,6 +124,14 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
+		7D95F0755693CA02E06BACA4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CFDB446FF7D08D76498F69EF /* Pods_Pocket_News.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -139,11 +139,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4AAFA6A523EDEFF3009861B6 /* Build configuration list for PBXNativeTarget "Pocket_News" */;
 			buildPhases = (
-				DD88DBC633B6C29BDD87D1FD /* [CP] Check Pods Manifest.lock */,
+				E69F9F9BB8D58120935FD71C /* [CP] Check Pods Manifest.lock */,
 				4AAFA68F23EDEFEB009861B6 /* Sources */,
 				4AAFA69023EDEFEB009861B6 /* Frameworks */,
 				4AAFA69123EDEFEB009861B6 /* Resources */,
-				313A1C39D0AF70217DAF7D91 /* [CP] Embed Pods Frameworks */,
+				A533600160064EA6A13403F1 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -193,7 +193,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4AAFA6A123EDEFF3009861B6 /* LaunchScreen.storyboard in Resources */,
-				4AAFA69E23EDEFF3009861B6 /* Assets.xcassets in Resources */,
+				4A67C54A2433D063005BF207 /* Assets.xcassets in Resources */,
 				4AAFA69C23EDEFEB009861B6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -201,7 +201,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		313A1C39D0AF70217DAF7D91 /* [CP] Embed Pods Frameworks */ = {
+		A533600160064EA6A13403F1 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -218,7 +218,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Pocket_News/Pods-Pocket_News-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		DD88DBC633B6C29BDD87D1FD /* [CP] Check Pods Manifest.lock */ = {
+		E69F9F9BB8D58120935FD71C /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -396,7 +396,7 @@
 		};
 		4AAFA6A623EDEFF3009861B6 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 101BEBA381461D222A901E31 /* Pods-Pocket_News.debug.xcconfig */;
+			baseConfigurationReference = 50619B272E093CD94DB4178E /* Pods-Pocket_News.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -414,7 +414,7 @@
 		};
 		4AAFA6A723EDEFF3009861B6 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 808394C17DB9E09A0161CA08 /* Pods-Pocket_News.release.xcconfig */;
+			baseConfigurationReference = D10C48CBE1073144B4428967 /* Pods-Pocket_News.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
