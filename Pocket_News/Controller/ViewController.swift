@@ -13,8 +13,9 @@ class ViewController: UIViewController{
     @IBOutlet weak var textFieldSearch: UITextField!
     
     override func viewDidLoad() {
+        
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
     }
 
 
@@ -31,11 +32,10 @@ class ViewController: UIViewController{
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?)
     {
-        print("hello2")
         if (segue.identifier == "goToSecondScreen")
         {
             let destinationVC = segue.destination as! NewsViewController
-            print("hello3")
+            
             destinationVC.keywordPassedOver = textFieldSearch.text!
         }
     }
