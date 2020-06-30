@@ -23,6 +23,7 @@ To create this app I used:
 - Segues
 - UITableView & Custom Cell
 - MVC
+- Storyboard
 
 ## Credits
 Powered by [NewsAPI.org](https://newsapi.org/)<br />
